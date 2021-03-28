@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ano Bissexto</string>
+    <string name="year">Ano</string>
+    <string name="verify">Verificar</string>
+    <string name="name">Nome</string>
+    <string name="share">Compartilhar</string>
+    <string name="subject">Ano Bissexto</string>
+    <string name="result_false">O ano de {year} não é um ano Bissexto!</string>
+    <string name="result_true">O ano de {year} é um ano Bissexto</string>
+</resources>
